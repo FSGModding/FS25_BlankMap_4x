@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<groundTypes>
+    <!-- Base -->
+    <groundType name="dirt"         fallbacks=""/>
+    <!-- Standard -->
+    <groundType name="asphalt"      fallbacks="concrete gravel dirt"/>
+    <groundType name="gravel"       fallbacks="dirt"/>
+    <groundType name="grass"        fallbacks="dirt"/>
+    <groundType name="sand"         fallbacks="dirt"/>
+    <groundType name="animalMud"    fallbacks="dirt"/>
+    <groundType name="concrete"     fallbacks="asphalt gravel dirt"/>
+    <groundType name="plates"       fallbacks="asphalt gravel dirt"/>
+    <groundType name="cobblestones" fallbacks="asphalt gravel dirt"/>
+    <groundType name="flagstones"   fallbacks="cobblestones asphalt gravel dirt"/>
+    <!-- Special -->
+    <groundType name="forestGround" fallbacks="dirt"/>
+    <groundType name="rock"         fallbacks="asphalt gravel dirt"/>
+</groundTypes>

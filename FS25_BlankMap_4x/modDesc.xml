@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="92">
+    <author>FSG Modding</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>FS25 Blank Map 4x</en>
+        <de>FS25 Blank Map 4x</de>
+    </title>
+    <description>
+        <en><![CDATA[FS25 Blank Map]]></en>
+        <de><![CDATA[Dies ist die Beispiel Mod Map US.]]></de>
+    </description>
+    <iconFilename>map_icon.png</iconFilename>
+    <multiplayer supported="true"/>
+    <maps>
+        <map id="SampleModMap" className="Mission00" filename="$dataS/scripts/mission00.lua" configFilename="map/xml/map.xml" defaultVehiclesXMLFilename="map/xml/vehicles.xml" defaultPlaceablesXMLFilename="map/xml/placeables.xml" defaultItemsXMLFilename="map/xml/items.xml" defaultHandToolsXMLFilename="map/xml/handtools.xml">
+            <title>
+                <en>Mod Map US 4x - FS25 Blank Map</en>
+                <de>Mod Map US 4x - FS25 Blank Map</de>
+            </title>
+            <description>
+                <en>This is the sample mod map US.</en>
+                <de>Dies ist die Beispiel Mod Map US.</de>
+            </description>
+            <iconFilename>map_preview.png</iconFilename>
+        </map>
+    </maps>
+    <storeItems>
+      <!-- <storeItem xmlFilename="map/xml/sawmill.xml" /> -->
+    </storeItems>
+</modDesc>
