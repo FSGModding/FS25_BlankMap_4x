@@ -2,43 +2,43 @@
 
 <i3D name="mapUS.i3d" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
   <Asset>
-    <Export program="GIANTS Editor 64bit" version="10.0.1"/>
+    <Export program="GIANTS Editor 64bit" version="10.0.4"/>
   </Asset>
 
   <Files>
-    <File fileId="590" filename="$data/foliage/barley/barley.xml"/>
-    <File fileId="602" filename="$data/foliage/beetRoot/beetRoot.xml"/>
-    <File fileId="589" filename="$data/foliage/canola/canola.xml"/>
-    <File fileId="603" filename="$data/foliage/carrot/carrot.xml"/>
-    <File fileId="600" filename="$data/foliage/cotton/cotton.xml"/>
-    <File fileId="581" filename="$data/foliage/decoBush/decoBush.xml"/>
-    <File fileId="583" filename="$data/foliage/decoBush/decoBushUS/decoBushUS.xml"/>
-    <File fileId="582" filename="$data/foliage/decoFoliage/decoFoliageUS.xml"/>
-    <File fileId="585" filename="$data/foliage/forestPlants/forestPlants.xml"/>
-    <File fileId="605" filename="$data/foliage/grape/grape.xml"/>
-    <File fileId="587" filename="$data/foliage/grass/grass.xml"/>
-    <File fileId="609" filename="$data/foliage/greenBean/greenBean.xml"/>
-    <File fileId="591" filename="$data/foliage/maize/maize.xml"/>
-    <File fileId="584" filename="$data/foliage/meadow/meadowUS/meadowUS.xml"/>
-    <File fileId="598" filename="$data/foliage/oat/oat.xml"/>
-    <File fileId="596" filename="$data/foliage/oilseedRadish/oilseedRadish.xml"/>
-    <File fileId="606" filename="$data/foliage/olive/olive.xml"/>
-    <File fileId="604" filename="$data/foliage/parsnip/parsnip.xml"/>
-    <File fileId="610" filename="$data/foliage/pea/pea.xml"/>
-    <File fileId="597" filename="$data/foliage/poplar/poplar.xml"/>
-    <File fileId="592" filename="$data/foliage/potato/potato.xml"/>
-    <File fileId="608" filename="$data/foliage/rice/rice.xml"/>
-    <File fileId="607" filename="$data/foliage/riceLongGrain/riceLongGrain.xml"/>
-    <File fileId="601" filename="$data/foliage/sorghum/sorghum.xml"/>
-    <File fileId="595" filename="$data/foliage/soybean/soybean.xml"/>
-    <File fileId="611" filename="$data/foliage/spinach/spinach.xml"/>
-    <File fileId="613" filename="$data/foliage/stone/stone.xml"/>
-    <File fileId="593" filename="$data/foliage/sugarbeet/sugarbeet.xml"/>
-    <File fileId="599" filename="$data/foliage/sugarcane/sugarcane.xml"/>
-    <File fileId="594" filename="$data/foliage/sunflower/sunflower.xml"/>
-    <File fileId="586" filename="$data/foliage/waterPlants/waterPlants.xml"/>
-    <File fileId="612" filename="$data/foliage/weed/weed.xml"/>
-    <File fileId="588" filename="$data/foliage/wheat/wheat.xml"/>
+    <File fileId="591" filename="$data/foliage/barley/barley.xml"/>
+    <File fileId="603" filename="$data/foliage/beetRoot/beetRoot.xml"/>
+    <File fileId="590" filename="$data/foliage/canola/canola.xml"/>
+    <File fileId="604" filename="$data/foliage/carrot/carrot.xml"/>
+    <File fileId="601" filename="$data/foliage/cotton/cotton.xml"/>
+    <File fileId="582" filename="$data/foliage/decoBush/decoBush.xml"/>
+    <File fileId="584" filename="$data/foliage/decoBush/decoBushUS/decoBushUS.xml"/>
+    <File fileId="583" filename="$data/foliage/decoFoliage/decoFoliageUS.xml"/>
+    <File fileId="586" filename="$data/foliage/forestPlants/forestPlants.xml"/>
+    <File fileId="606" filename="$data/foliage/grape/grape.xml"/>
+    <File fileId="588" filename="$data/foliage/grass/grass.xml"/>
+    <File fileId="610" filename="$data/foliage/greenBean/greenBean.xml"/>
+    <File fileId="592" filename="$data/foliage/maize/maize.xml"/>
+    <File fileId="585" filename="$data/foliage/meadow/meadowUS/meadowUS.xml"/>
+    <File fileId="599" filename="$data/foliage/oat/oat.xml"/>
+    <File fileId="597" filename="$data/foliage/oilseedRadish/oilseedRadish.xml"/>
+    <File fileId="607" filename="$data/foliage/olive/olive.xml"/>
+    <File fileId="605" filename="$data/foliage/parsnip/parsnip.xml"/>
+    <File fileId="611" filename="$data/foliage/pea/pea.xml"/>
+    <File fileId="598" filename="$data/foliage/poplar/poplar.xml"/>
+    <File fileId="593" filename="$data/foliage/potato/potato.xml"/>
+    <File fileId="609" filename="$data/foliage/rice/rice.xml"/>
+    <File fileId="608" filename="$data/foliage/riceLongGrain/riceLongGrain.xml"/>
+    <File fileId="602" filename="$data/foliage/sorghum/sorghum.xml"/>
+    <File fileId="596" filename="$data/foliage/soybean/soybean.xml"/>
+    <File fileId="612" filename="$data/foliage/spinach/spinach.xml"/>
+    <File fileId="614" filename="$data/foliage/stone/stone.xml"/>
+    <File fileId="594" filename="$data/foliage/sugarbeet/sugarbeet.xml"/>
+    <File fileId="600" filename="$data/foliage/sugarcane/sugarcane.xml"/>
+    <File fileId="595" filename="$data/foliage/sunflower/sunflower.xml"/>
+    <File fileId="587" filename="$data/foliage/waterPlants/waterPlants.xml"/>
+    <File fileId="613" filename="$data/foliage/weed/weed.xml"/>
+    <File fileId="589" filename="$data/foliage/wheat/wheat.xml"/>
     <File fileId="395" filename="$data/maps/mapAS/textures/terrain/rockFloorTiles01_diffuse.png"/>
     <File fileId="398" filename="$data/maps/mapAS/textures/terrain/rockFloorTiles01_displacement.png"/>
     <File fileId="397" filename="$data/maps/mapAS/textures/terrain/rockFloorTiles01_height.png"/>
@@ -381,27 +381,27 @@
     <File fileId="221" filename="$data/maps/mapUS/textures/terrain/rockyForestGround02_normal.png"/>
     <File fileId="423" filename="$data/maps/mapUS/textures/terrain/sand01_diffuse.png"/>
     <File fileId="428" filename="$data/maps/mapUS/textures/terrain/sand02_diffuse.png"/>
-    <File fileId="645" filename="$data/maps/textures/shared/mapBoundsX.i3d"/>
-    <File fileId="616" filename="$data/maps/textures/terrain/ground/distance/cultivated_distance_diffuse.png"/>
-    <File fileId="630" filename="$data/maps/textures/terrain/ground/distance/directSownFertilized_distance_diffuse.png"/>
-    <File fileId="618" filename="$data/maps/textures/terrain/ground/distance/directSown_distance_diffuse.png"/>
-    <File fileId="623" filename="$data/maps/textures/terrain/ground/distance/fertilizer_distance_diffuse.png"/>
-    <File fileId="634" filename="$data/maps/textures/terrain/ground/distance/grassCutFertilized_distance_diffuse.png"/>
-    <File fileId="622" filename="$data/maps/textures/terrain/ground/distance/grassCut_distance_diffuse.png"/>
-    <File fileId="633" filename="$data/maps/textures/terrain/ground/distance/grassFertilized_distance_diffuse.png"/>
-    <File fileId="621" filename="$data/maps/textures/terrain/ground/distance/grass_distance_diffuse.png"/>
-    <File fileId="631" filename="$data/maps/textures/terrain/ground/distance/harvestReadyFertilized_distance_diffuse.png"/>
-    <File fileId="632" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOtherFertilized_distance_diffuse.png"/>
-    <File fileId="620" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOther_distance_diffuse.png"/>
-    <File fileId="619" filename="$data/maps/textures/terrain/ground/distance/harvestReady_distance_diffuse.png"/>
-    <File fileId="626" filename="$data/maps/textures/terrain/ground/distance/lime_distance_diffuse.png"/>
-    <File fileId="625" filename="$data/maps/textures/terrain/ground/distance/liquidManure_distance_diffuse.png"/>
-    <File fileId="628" filename="$data/maps/textures/terrain/ground/distance/maizeChopper_distance_diffuse.png"/>
-    <File fileId="624" filename="$data/maps/textures/terrain/ground/distance/manure_distance_diffuse.png"/>
-    <File fileId="617" filename="$data/maps/textures/terrain/ground/distance/sown_distance_diffuse.png"/>
-    <File fileId="627" filename="$data/maps/textures/terrain/ground/distance/straw_distance_diffuse.png"/>
-    <File fileId="629" filename="$data/maps/textures/terrain/ground/distance/stubbleTillageFertilized_distance_diffuse.png"/>
-    <File fileId="615" filename="$data/maps/textures/terrain/ground/distance/stubbleTillage_distance_diffuse.png"/>
+    <File fileId="646" filename="$data/maps/textures/shared/mapBoundsX.i3d"/>
+    <File fileId="617" filename="$data/maps/textures/terrain/ground/distance/cultivated_distance_diffuse.png"/>
+    <File fileId="631" filename="$data/maps/textures/terrain/ground/distance/directSownFertilized_distance_diffuse.png"/>
+    <File fileId="619" filename="$data/maps/textures/terrain/ground/distance/directSown_distance_diffuse.png"/>
+    <File fileId="624" filename="$data/maps/textures/terrain/ground/distance/fertilizer_distance_diffuse.png"/>
+    <File fileId="635" filename="$data/maps/textures/terrain/ground/distance/grassCutFertilized_distance_diffuse.png"/>
+    <File fileId="623" filename="$data/maps/textures/terrain/ground/distance/grassCut_distance_diffuse.png"/>
+    <File fileId="634" filename="$data/maps/textures/terrain/ground/distance/grassFertilized_distance_diffuse.png"/>
+    <File fileId="622" filename="$data/maps/textures/terrain/ground/distance/grass_distance_diffuse.png"/>
+    <File fileId="632" filename="$data/maps/textures/terrain/ground/distance/harvestReadyFertilized_distance_diffuse.png"/>
+    <File fileId="633" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOtherFertilized_distance_diffuse.png"/>
+    <File fileId="621" filename="$data/maps/textures/terrain/ground/distance/harvestReadyOther_distance_diffuse.png"/>
+    <File fileId="620" filename="$data/maps/textures/terrain/ground/distance/harvestReady_distance_diffuse.png"/>
+    <File fileId="627" filename="$data/maps/textures/terrain/ground/distance/lime_distance_diffuse.png"/>
+    <File fileId="626" filename="$data/maps/textures/terrain/ground/distance/liquidManure_distance_diffuse.png"/>
+    <File fileId="629" filename="$data/maps/textures/terrain/ground/distance/maizeChopper_distance_diffuse.png"/>
+    <File fileId="625" filename="$data/maps/textures/terrain/ground/distance/manure_distance_diffuse.png"/>
+    <File fileId="618" filename="$data/maps/textures/terrain/ground/distance/sown_distance_diffuse.png"/>
+    <File fileId="628" filename="$data/maps/textures/terrain/ground/distance/straw_distance_diffuse.png"/>
+    <File fileId="630" filename="$data/maps/textures/terrain/ground/distance/stubbleTillageFertilized_distance_diffuse.png"/>
+    <File fileId="616" filename="$data/maps/textures/terrain/ground/distance/stubbleTillage_distance_diffuse.png"/>
     <File fileId="432" filename="$data/maps/textures/terrain/ground/groundType_cultivated01_diffuse.png"/>
     <File fileId="435" filename="$data/maps/textures/terrain/ground/groundType_cultivated01_displacement.png"/>
     <File fileId="434" filename="$data/maps/textures/terrain/ground/groundType_cultivated01_height.png"/>
@@ -542,10 +542,10 @@
     <File fileId="567" filename="$data/maps/textures/terrain/ground/spray_straw_displacement.png"/>
     <File fileId="566" filename="$data/maps/textures/terrain/ground/spray_straw_height.png"/>
     <File fileId="565" filename="$data/maps/textures/terrain/ground/spray_straw_normal.png"/>
-    <File fileId="637" filename="$data/shaders/groundHeightShader.xml"/>
+    <File fileId="638" filename="$data/shaders/groundHeightShader.xml"/>
     <File fileId="2" filename="$data/shaders/terrainShader.xml"/>
-    <File fileId="647" filename="$data/shared/assets/marker/markerIconShopping.i3d"/>
-    <File fileId="638" filename="$data/shared/groundHeightNoise.dds"/>
+    <File fileId="648" filename="$data/shared/assets/marker/markerIconShopping.i3d"/>
+    <File fileId="639" filename="$data/shared/groundHeightNoise.dds"/>
     <File fileId="4" filename="data/asphalt01_weight.png"/>
     <File fileId="9" filename="data/asphalt02_weight.png"/>
     <File fileId="34" filename="data/asphaltCracks01_weight.png"/>
@@ -567,12 +567,12 @@
     <File fileId="244" filename="data/concreteShattered01_weight.png"/>
     <File fileId="249" filename="data/concreteShattered02_weight.png"/>
     <File fileId="1" filename="data/dem.png"/>
-    <File fileId="640" filename="data/densityMap_fruits.png"/>
-    <File fileId="614" filename="data/densityMap_ground.png"/>
-    <File fileId="639" filename="data/densityMap_groundFoliage.png"/>
-    <File fileId="635" filename="data/densityMap_height.png"/>
-    <File fileId="642" filename="data/densityMap_stones.png"/>
-    <File fileId="641" filename="data/densityMap_weed.png"/>
+    <File fileId="641" filename="data/densityMap_fruits.png"/>
+    <File fileId="615" filename="data/densityMap_ground.png"/>
+    <File fileId="640" filename="data/densityMap_groundFoliage.png"/>
+    <File fileId="636" filename="data/densityMap_height.png"/>
+    <File fileId="643" filename="data/densityMap_stones.png"/>
+    <File fileId="642" filename="data/densityMap_weed.png"/>
     <File fileId="154" filename="data/forestGrass01_weight.png"/>
     <File fileId="159" filename="data/forestGrass02_weight.png"/>
     <File fileId="164" filename="data/forestLeaves01_weight.png"/>
@@ -611,13 +611,14 @@
     <File fileId="389" filename="data/gravelSmall02_weight.png"/>
     <File fileId="572" filename="data/infoLayer_environment.png"/>
     <File fileId="573" filename="data/infoLayer_farmlands.png"/>
-    <File fileId="580" filename="data/infoLayer_fieldType.png"/>
-    <File fileId="574" filename="data/infoLayer_indoorMask.png"/>
-    <File fileId="575" filename="data/infoLayer_navigationCollision.png"/>
-    <File fileId="578" filename="data/infoLayer_placementCollision.png"/>
-    <File fileId="579" filename="data/infoLayer_placementCollisionGenerated.png"/>
-    <File fileId="576" filename="data/infoLayer_tipCollision.png"/>
-    <File fileId="577" filename="data/infoLayer_tipCollisionGenerated.png"/>
+    <File fileId="581" filename="data/infoLayer_fieldType.png"/>
+    <File fileId="575" filename="data/infoLayer_indoorMask.png"/>
+    <File fileId="576" filename="data/infoLayer_navigationCollision.png"/>
+    <File fileId="579" filename="data/infoLayer_placementCollision.png"/>
+    <File fileId="580" filename="data/infoLayer_placementCollisionGenerated.png"/>
+    <File fileId="574" filename="data/infoLayer_soilMap.png"/>
+    <File fileId="577" filename="data/infoLayer_tipCollision.png"/>
+    <File fileId="578" filename="data/infoLayer_tipCollisionGenerated.png"/>
     <File fileId="284" filename="data/mudDark01_weight.png"/>
     <File fileId="289" filename="data/mudDark02_weight.png"/>
     <File fileId="334" filename="data/mudDarkGrassPatchy01_weight.png"/>
@@ -652,14 +653,14 @@
 
 
   <Materials>
-    <Material name="groundDetailHeight_mat" materialId="5" diffuseColor="0 0 0 0" customShaderId="637">
-      <Custommap name="heightNoiseMap" fileId="638"/>
+    <Material name="groundDetailHeight_mat" materialId="5" diffuseColor="0 0 0 0" customShaderId="638">
+      <Custommap name="heightNoiseMap" fileId="639"/>
     </Material>
-    <Material name="i3d_default_material" materialId="10282" diffuseColor="0.8 0.8 0.8 1" specularColor="0.6 1 0">
+    <Material name="i3d_default_material" materialId="6" diffuseColor="0.8 0.8 0.8 1" specularColor="0.6 1 0">
     </Material>
-    <Material name="lambert1" materialId="6" diffuseColor="0.494118 0.494118 0.494118 1">
+    <Material name="lambert1" materialId="7" diffuseColor="0.494118 0.494118 0.494118 1">
     </Material>
-    <Material name="terrainMaterial_mat" materialId="7" customShaderId="2">
+    <Material name="terrainMaterial_mat" materialId="8" customShaderId="2">
     </Material>
   </Materials>
 
@@ -668,9 +669,9 @@
   </Shapes>
 
   <Scene>
-    <Light name="sun" translation="0 400 0" rotation="-47.2604 -28.1861 0" objectMask="0x83ff0000" nodeId="10" type="directional" color="1 1 1" emitDiffuse="true" emitSpecular="true" castShadowMap="true" depthMapBias="0.001" depthMapSlopeScaleBias="2" depthMapSlopeClamp="0.001" depthMapResolution="2048" shadowFarDistance="1000" shadowExtrusionDistance="200" softShadowsLightSize="0.5" softShadowsLightDistance="15" softShadowsDepthBiasFactor="1" softShadowsMaxPenumbraSize="0.5" numShadowMapSplits="5" shadowMapSplitDistancesParameter="0.9" lastShadowMapSplitBboxMin="-1024,-128,-1024" lastShadowMapSplitBboxMax="1024,148,1024" range="10000" scattering="true"/>
-    <Camera name="persp" translation="-983.921 1710.91 38.1434" rotation="129.657 -65.0154 180" visibility="false" nodeId="11" fov="60" nearClip="0.01" farClip="6000" orthographicHeight="1500"/>
-    <TerrainTransformGroup name="terrain" static="true" collisionFilterGroup="0x100" collisionFilterMask="0xfffff9c3" nodeId="13" heightMapId="1" patchSize="65" maxLODDistance="750" heightScale="255" unitsPerPixel="2" lodBlendStart="200" lodBlendEnd="300" lodTextureSize="4096" lodBlendStartDynamic="50" lodBlendEndDynamic="65" detailLodBlendDelta="5" materialId="7" castShadowMap="true" occNumLODs="1" occMaxLODDistance="300" occPatchSize="65" occLevel="2" occDistanceWeight="1" occMaxAdjacentFaces="10">
+    <Light name="sun" translation="0 400 0" rotation="-47.2604 -28.1861 0" objectMask="0x83ff0000" nodeId="15" type="directional" color="1 1 1" emitDiffuse="true" emitSpecular="true" castShadowMap="true" depthMapBias="0.001" depthMapSlopeScaleBias="2" depthMapSlopeClamp="0.001" depthMapResolution="2048" shadowFarDistance="1000" shadowExtrusionDistance="200" softShadowsLightSize="0.5" softShadowsLightDistance="15" softShadowsDepthBiasFactor="1" softShadowsMaxPenumbraSize="0.5" numShadowMapSplits="5" shadowMapSplitDistancesParameter="0.9" lastShadowMapSplitBboxMin="-1024,-128,-1024" lastShadowMapSplitBboxMax="1024,148,1024" range="10000" scattering="true"/>
+    <Camera name="persp" translation="2049.5 68.1543 2043.38" rotation="-60.6557 84.8668 -5.24647e-05" visibility="false" nodeId="16" fov="60" nearClip="0.01" farClip="6000" orthographicHeight="1500"/>
+    <TerrainTransformGroup name="terrain" static="true" collisionFilterGroup="0x100" collisionFilterMask="0xfffff9c3" nodeId="18" heightMapId="1" patchSize="65" maxLODDistance="750" heightScale="255" unitsPerPixel="2" lodBlendStart="200" lodBlendEnd="300" lodTextureSize="4096" lodBlendStartDynamic="50" lodBlendEndDynamic="65" detailLodBlendDelta="5" materialId="8" castShadowMap="true" occNumLODs="1" occMaxLODDistance="300" occPatchSize="65" occLevel="2" occDistanceWeight="1" occMaxAdjacentFaces="10">
       <OccluderLods>
         <OccluderLod occLodLevel="0" occFaceCount="100" occMaxHausdorffDistance="7" occMaxHausdorffDistanceExtra="9" occMinHorizontalDistance="1" />
         <OccluderLod occLodLevel="1" occFaceCount="20" occMaxHausdorffDistance="25" occMaxHausdorffDistanceExtra="30" occMinHorizontalDistance="1" />
@@ -988,45 +989,46 @@
             <Option value="255" name="Not buyable"/>
           </Group>
         </InfoLayer>
-        <InfoLayer name="indoorMask" fileId="574" numChannels="1" runtime="true">
+        <InfoLayer name="soilMap" fileId="574" numChannels="3"/>
+        <InfoLayer name="indoorMask" fileId="575" numChannels="1" runtime="true">
           <Group name="State" firstChannel="0" numChannels="1" >
             <Option value="0" name="Outdoor"/>
             <Option value="1" name="Indoor"/>
           </Group>
         </InfoLayer>
-        <InfoLayer name="navigationCollision" fileId="575" numChannels="1" runtime="true"/>
-        <InfoLayer name="tipCollision" fileId="576" numChannels="1" runtime="true">
+        <InfoLayer name="navigationCollision" fileId="576" numChannels="1" runtime="true"/>
+        <InfoLayer name="tipCollision" fileId="577" numChannels="1" runtime="true">
           <Group name="Type" firstChannel="0" numChannels="1" >
             <Option value="0" name="Default"/>
             <Option value="1" name="Blocked"/>
           </Group>
         </InfoLayer>
-        <InfoLayer name="tipCollisionGenerated" fileId="577" numChannels="2" runtime="true">
+        <InfoLayer name="tipCollisionGenerated" fileId="578" numChannels="2" runtime="true">
           <Group name="Type" firstChannel="0" numChannels="2" >
             <Option value="0" name="Default"/>
             <Option value="1" name="Blocked"/>
             <Option value="2" name="Blocked Wall"/>
           </Group>
         </InfoLayer>
-        <InfoLayer name="placementCollision" fileId="578" numChannels="1" runtime="true">
+        <InfoLayer name="placementCollision" fileId="579" numChannels="1" runtime="true">
           <Group name="Type" firstChannel="0" numChannels="1" >
             <Option value="0" name="Default"/>
             <Option value="1" name="Blocked"/>
           </Group>
         </InfoLayer>
-        <InfoLayer name="placementCollisionGenerated" fileId="579" numChannels="1" runtime="true">
+        <InfoLayer name="placementCollisionGenerated" fileId="580" numChannels="1" runtime="true">
           <Group name="Type" firstChannel="0" numChannels="1" >
             <Option value="0" name="Default"/>
             <Option value="1" name="Blocked"/>
           </Group>
         </InfoLayer>
-        <InfoLayer name="fieldType" fileId="580" numChannels="1" runtime="true">
+        <InfoLayer name="fieldType" fileId="581" numChannels="1" runtime="true">
           <Group name="Type" firstChannel="0" numChannels="1" >
             <Option value="0" name="Default"/>
             <Option value="1" name="Rice"/>
           </Group>
         </InfoLayer>
-        <DetailLayer name="terrainDetail" densityMapId="614" numDensityMapChannels="11" compressionChannels="11" cellSize="8" objectMask="0xff00ff" decalLayer="1" viewDistance="75" blendOutDistance="5" densityMapShaderNames="terrainDetailMap" combinedValuesChannels="0 4 0;4 3 0;7 3 0;10 1 0" channelOverlayTypes="groundDetail;;spray">
+        <DetailLayer name="terrainDetail" densityMapId="615" numDensityMapChannels="11" compressionChannels="11" cellSize="8" objectMask="0xff00ff" decalLayer="1" viewDistance="75" blendOutDistance="5" densityMapShaderNames="terrainDetailMap" combinedValuesChannels="0 4 0;4 3 0;7 3 0;10 1 0" channelOverlayTypes="groundDetail;;spray">
           <Group name="GroundType" firstChannel="0" numChannels="4" >
             <Option value="1" name="Stubble Tillage"/>
             <Option value="2" name="Cultivated"/>
@@ -1064,277 +1066,299 @@
           <Group name="Water" firstChannel="10" numChannels="1" >
             <Option value="1" name="Watered"/>
           </Group>
-          <DistanceTexture match="1;*;0" fileId="615"/>
-          <DistanceTexture match="2;*;0" fileId="616"/>
-          <DistanceTexture match="3;*;0" fileId="616"/>
-          <DistanceTexture match="4;*;0" fileId="616"/>
-          <DistanceTexture match="5;*;0" fileId="616"/>
-          <DistanceTexture match="6;*;0" fileId="616"/>
-          <DistanceTexture match="7;*;0" fileId="617"/>
-          <DistanceTexture match="8;*;0" fileId="618"/>
-          <DistanceTexture match="9;*;0" fileId="616"/>
-          <DistanceTexture match="10;*;0" fileId="616"/>
-          <DistanceTexture match="11;*;0" fileId="619"/>
-          <DistanceTexture match="12;*;0" fileId="620"/>
-          <DistanceTexture match="13;*;0" fileId="621"/>
-          <DistanceTexture match="14;*;0" fileId="622"/>
-          <DistanceTexture match="*;*;1" fileId="623"/>
-          <DistanceTexture match="*;*;2" fileId="624"/>
-          <DistanceTexture match="*;*;3" fileId="625"/>
-          <DistanceTexture match="*;*;4" fileId="626"/>
-          <DistanceTexture match="*;*;5" fileId="627"/>
-          <DistanceTexture match="*;*;6" fileId="628"/>
-          <DistanceTexture match="1;*;1" fileId="629"/>
-          <DistanceTexture match="7;*;1" fileId="630"/>
-          <DistanceTexture match="11;*;1" fileId="631"/>
-          <DistanceTexture match="12;*;1" fileId="632"/>
-          <DistanceTexture match="13;*;1" fileId="633"/>
-          <DistanceTexture match="14;*;1" fileId="634"/>
+          <DistanceTexture match="1;*;0" fileId="616"/>
+          <DistanceTexture match="2;*;0" fileId="617"/>
+          <DistanceTexture match="3;*;0" fileId="617"/>
+          <DistanceTexture match="4;*;0" fileId="617"/>
+          <DistanceTexture match="5;*;0" fileId="617"/>
+          <DistanceTexture match="6;*;0" fileId="617"/>
+          <DistanceTexture match="7;*;0" fileId="618"/>
+          <DistanceTexture match="8;*;0" fileId="619"/>
+          <DistanceTexture match="9;*;0" fileId="617"/>
+          <DistanceTexture match="10;*;0" fileId="617"/>
+          <DistanceTexture match="11;*;0" fileId="620"/>
+          <DistanceTexture match="12;*;0" fileId="621"/>
+          <DistanceTexture match="13;*;0" fileId="622"/>
+          <DistanceTexture match="14;*;0" fileId="623"/>
+          <DistanceTexture match="*;*;1" fileId="624"/>
+          <DistanceTexture match="*;*;2" fileId="625"/>
+          <DistanceTexture match="*;*;3" fileId="626"/>
+          <DistanceTexture match="*;*;4" fileId="627"/>
+          <DistanceTexture match="*;*;5" fileId="628"/>
+          <DistanceTexture match="*;*;6" fileId="629"/>
+          <DistanceTexture match="1;*;1" fileId="630"/>
+          <DistanceTexture match="7;*;1" fileId="631"/>
+          <DistanceTexture match="11;*;1" fileId="632"/>
+          <DistanceTexture match="12;*;1" fileId="633"/>
+          <DistanceTexture match="13;*;1" fileId="634"/>
+          <DistanceTexture match="14;*;1" fileId="635"/>
         </DetailLayer>
-        <DetailLayer name="terrainDetailHeight" densityMapId="635" numDensityMapChannels="12" compressionChannels="6" cellSize="8" objectMask="0xff00ff" decalLayer="2" materialId="5" viewDistance="75" blendOutDistance="5" densityMapShaderNames="terrainFillMap" combinedValuesChannels="0 6 0" heightFirstChannel="6" heightNumChannels="6" maxHeight="4"/>
-        <DisplacementLayer name="terrainDisplacement" size="16384" tileSize="16" numChannels="6" cellSize="8" viewDistance="25" blendOutDistance="5" maxHeight="0.2" densityMapShaderNames="terrainDisplacementMap"/>
+        <DetailLayer name="terrainDetailHeight" densityMapId="636" numDensityMapChannels="12" compressionChannels="6" cellSize="8" objectMask="0xff00ff" decalLayer="2" materialId="5" viewDistance="75" blendOutDistance="5" densityMapShaderNames="terrainFillMap" combinedValuesChannels="0 6 0" heightFirstChannel="6" heightNumChannels="6" maxHeight="4"/>
+        <DisplacementLayer name="terrainDisplacement" size="16384" tileSize="16" numChannels="6" cellSize="4" viewDistance="25" blendOutDistance="5" maxHeight="0.2" densityMapShaderNames="terrainDisplacementMap"/>
         <FoliageSystem cellSize="8" graphicsCellScale="2" objectMask="16711935" decalLayer="0">
-          <FoliageMultiLayer densityMapId="639" numChannels="4" numTypeIndexChannels="0">
-            <FoliageType name="decoBush" foliageXmlId="581"/>
+          <FoliageMultiLayer densityMapId="640" numChannels="4" numTypeIndexChannels="0">
+            <FoliageType name="decoBush" foliageXmlId="582"/>
           </FoliageMultiLayer>
-          <FoliageMultiLayer densityMapId="640" numChannels="10" numTypeIndexChannels="5" compressionChannels="5">
-            <FoliageType name="decoFoliage" foliageXmlId="582"/>
-            <FoliageType name="decoBushUS" foliageXmlId="583"/>
-            <FoliageType name="meadow" foliageXmlId="584"/>
-            <FoliageType name="forestPlants" foliageXmlId="585"/>
-            <FoliageType name="waterPlants" foliageXmlId="586"/>
-            <FoliageType name="grass" foliageXmlId="587"/>
-            <FoliageType name="wheat" foliageXmlId="588"/>
-            <FoliageType name="canola" foliageXmlId="589"/>
-            <FoliageType name="barley" foliageXmlId="590"/>
-            <FoliageType name="maize" foliageXmlId="591"/>
-            <FoliageType name="potato" foliageXmlId="592"/>
-            <FoliageType name="sugarBeet" foliageXmlId="593"/>
-            <FoliageType name="sunflower" foliageXmlId="594"/>
-            <FoliageType name="soybean" foliageXmlId="595"/>
-            <FoliageType name="oilseedRadish" foliageXmlId="596"/>
-            <FoliageType name="poplar" foliageXmlId="597"/>
-            <FoliageType name="oat" foliageXmlId="598"/>
-            <FoliageType name="sugarCane" foliageXmlId="599"/>
-            <FoliageType name="cotton" foliageXmlId="600"/>
-            <FoliageType name="sorghum" foliageXmlId="601"/>
-            <FoliageType name="beetRoot" foliageXmlId="602"/>
-            <FoliageType name="carrot" foliageXmlId="603"/>
-            <FoliageType name="parsnip" foliageXmlId="604"/>
-            <FoliageType name="grape" foliageXmlId="605"/>
-            <FoliageType name="olive" foliageXmlId="606"/>
-            <FoliageType name="riceLongGrain" foliageXmlId="607"/>
-            <FoliageType name="rice" foliageXmlId="608"/>
-            <FoliageType name="greenBean" foliageXmlId="609"/>
-            <FoliageType name="pea" foliageXmlId="610"/>
-            <FoliageType name="spinach" foliageXmlId="611"/>
+          <FoliageMultiLayer densityMapId="641" numChannels="10" numTypeIndexChannels="5" compressionChannels="5">
+            <FoliageType name="decoFoliage" foliageXmlId="583"/>
+            <FoliageType name="decoBushUS" foliageXmlId="584"/>
+            <FoliageType name="meadow" foliageXmlId="585"/>
+            <FoliageType name="forestPlants" foliageXmlId="586"/>
+            <FoliageType name="waterPlants" foliageXmlId="587"/>
+            <FoliageType name="grass" foliageXmlId="588"/>
+            <FoliageType name="wheat" foliageXmlId="589"/>
+            <FoliageType name="canola" foliageXmlId="590"/>
+            <FoliageType name="barley" foliageXmlId="591"/>
+            <FoliageType name="maize" foliageXmlId="592"/>
+            <FoliageType name="potato" foliageXmlId="593"/>
+            <FoliageType name="sugarBeet" foliageXmlId="594"/>
+            <FoliageType name="sunflower" foliageXmlId="595"/>
+            <FoliageType name="soybean" foliageXmlId="596"/>
+            <FoliageType name="oilseedRadish" foliageXmlId="597"/>
+            <FoliageType name="poplar" foliageXmlId="598"/>
+            <FoliageType name="oat" foliageXmlId="599"/>
+            <FoliageType name="sugarCane" foliageXmlId="600"/>
+            <FoliageType name="cotton" foliageXmlId="601"/>
+            <FoliageType name="sorghum" foliageXmlId="602"/>
+            <FoliageType name="beetRoot" foliageXmlId="603"/>
+            <FoliageType name="carrot" foliageXmlId="604"/>
+            <FoliageType name="parsnip" foliageXmlId="605"/>
+            <FoliageType name="grape" foliageXmlId="606"/>
+            <FoliageType name="olive" foliageXmlId="607"/>
+            <FoliageType name="riceLongGrain" foliageXmlId="608"/>
+            <FoliageType name="rice" foliageXmlId="609"/>
+            <FoliageType name="greenBean" foliageXmlId="610"/>
+            <FoliageType name="pea" foliageXmlId="611"/>
+            <FoliageType name="spinach" foliageXmlId="612"/>
           </FoliageMultiLayer>
-          <FoliageMultiLayer densityMapId="641" numChannels="4" numTypeIndexChannels="0">
-            <FoliageType name="weed" foliageXmlId="612"/>
+          <FoliageMultiLayer densityMapId="642" numChannels="4" numTypeIndexChannels="0">
+            <FoliageType name="weed" foliageXmlId="613"/>
           </FoliageMultiLayer>
-          <FoliageMultiLayer densityMapId="642" numChannels="3" numTypeIndexChannels="0">
-            <FoliageType name="stone" foliageXmlId="613"/>
+          <FoliageMultiLayer densityMapId="643" numChannels="3" numTypeIndexChannels="0">
+            <FoliageType name="stone" foliageXmlId="614"/>
           </FoliageMultiLayer>
         </FoliageSystem>
       </Layers>
     </TerrainTransformGroup>
-    <TransformGroup name="careerStartPoint" translation="-0.459408 60 1.09541" rotation="-180 51.6196 -180" nodeId="32"/>
-    <TransformGroup name="mapBoundries" nodeId="10281">
-      <Shape name="mapBoundaries_E" shapeId="1" static="true" collisionFilterGroup="0x3e" collisionFilterMask="0xfffffbff" nodeId="10288" castsShadows="false" receiveShadows="false" nonRenderable="true" materialIds="10282"/>
-      <Shape name="mapBoundaries_N" shapeId="2" static="true" collisionFilterGroup="0x3e" collisionFilterMask="0xfffffbff" nodeId="10289" castsShadows="false" receiveShadows="false" nonRenderable="true" materialIds="10282"/>
-      <Shape name="mapBoundaries_S" shapeId="3" static="true" collisionFilterGroup="0x3e" collisionFilterMask="0xfffffbff" nodeId="10290" castsShadows="false" receiveShadows="false" nonRenderable="true" materialIds="10282"/>
-      <Shape name="mapBoundaries_W" shapeId="4" static="true" collisionFilterGroup="0x3e" collisionFilterMask="0xfffffbff" nodeId="10291" castsShadows="false" receiveShadows="false" nonRenderable="true" materialIds="10282"/>
+    <TransformGroup name="careerStartPoint" translation="-0.459408 60 1.09541" rotation="-180 51.6196 -180" nodeId="38"/>
+    <TransformGroup name="mapBoundries" nodeId="39">
+      <Shape name="mapBoundaries_E" shapeId="1" static="true" collisionFilterGroup="0x3e" collisionFilterMask="0xfffffbff" nodeId="40" castsShadows="false" receiveShadows="false" nonRenderable="true" materialIds="6"/>
+      <Shape name="mapBoundaries_N" shapeId="2" static="true" collisionFilterGroup="0x3e" collisionFilterMask="0xfffffbff" nodeId="41" castsShadows="false" receiveShadows="false" nonRenderable="true" materialIds="6"/>
+      <Shape name="mapBoundaries_S" shapeId="3" static="true" collisionFilterGroup="0x3e" collisionFilterMask="0xfffffbff" nodeId="42" castsShadows="false" receiveShadows="false" nonRenderable="true" materialIds="6"/>
+      <Shape name="mapBoundaries_W" shapeId="4" static="true" collisionFilterGroup="0x3e" collisionFilterMask="0xfffffbff" nodeId="43" castsShadows="false" receiveShadows="false" nonRenderable="true" materialIds="6"/>
     </TransformGroup>
-    <TransformGroup name="gameplay" nodeId="33">
-      <TransformGroup name="fields" nodeId="34">
-        <TransformGroup name="field1" translation="595.028 60 -174.532" nodeId="35">
-          <TransformGroup name="polygonPoints" nodeId="36">
-            <TransformGroup name="point1" nodeId="37"/>
-            <TransformGroup name="point2" translation="0 -0.507416 187.297" nodeId="38"/>
-            <TransformGroup name="point3" translation="11.3903 -1.05043 205.419" nodeId="39"/>
-            <TransformGroup name="point4" translation="27.8375 -2.21445 219.316" nodeId="40"/>
-            <TransformGroup name="point5" translation="57.5967 -6.63983 230.751" nodeId="41"/>
-            <TransformGroup name="point6" translation="84.6522 -10.1734 234.5" nodeId="42"/>
-            <TransformGroup name="point7" translation="305 -13.2179 234.5" nodeId="43"/>
-            <TransformGroup name="point8" translation="169.508 -5.19456 2.78992" nodeId="44"/>
+    <TransformGroup name="gameplay" nodeId="44">
+      <TransformGroup name="fields" nodeId="45">
+        <TransformGroup name="field01" translation="595.028 60 -174.532" nodeId="46">
+          <TransformGroup name="polygonPoints" nodeId="47">
+            <TransformGroup name="point1" nodeId="48"/>
+            <TransformGroup name="point2" translation="0 0 187.297" nodeId="49"/>
+            <TransformGroup name="point3" translation="11.3903 0 205.419" nodeId="50"/>
+            <TransformGroup name="point4" translation="27.8375 0 219.316" nodeId="51"/>
+            <TransformGroup name="point5" translation="57.5967 0 230.751" nodeId="52"/>
+            <TransformGroup name="point6" translation="84.6522 0 234.5" nodeId="53"/>
+            <TransformGroup name="point7" translation="305 0 234.5" nodeId="54"/>
+            <TransformGroup name="point8" translation="169.508 0 2.78992" nodeId="55"/>
           </TransformGroup>
-          <TransformGroup name="nameIndicator" translation="58.1631 -3.62643 109.85" nodeId="45">
-            <Note name="Note" translation="1.07373 -0.530708 5.83325" visibility="false" nodeId="46" text="field1&amp;#xA;5.41 ha" color="4278190080" fixedSize="true"/>
+          <TransformGroup name="nameIndicator" translation="58.1631 -3.62643 109.85" nodeId="56">
+            <Note name="Note" translation="1.07373 -0.530708 5.83325" visibility="false" nodeId="57" text="field01&amp;#xA;5.41 ha" color="4278190080" fixedSize="true"/>
           </TransformGroup>
+        </TransformGroup>
+        <TransformGroup name="field02" translation="1983.4 60 -2003.52" nodeId="58">
+          <TransformGroup name="polygonPoints" nodeId="59">
+            <TransformGroup name="point1" nodeId="60"/>
+            <TransformGroup name="point1" translation="7.65381 0 7.31836" nodeId="61"/>
+            <TransformGroup name="point1" translation="10.8079 0 183.908" nodeId="62"/>
+            <TransformGroup name="point1" translation="3.04053 0 195.192" nodeId="63"/>
+            <TransformGroup name="point1" translation="-25.9132 0 207.615" nodeId="64"/>
+            <TransformGroup name="point1" translation="-95.3506 0 207.135" nodeId="65"/>
+            <TransformGroup name="point1" translation="-114.143 0 193.886" nodeId="66"/>
+            <TransformGroup name="point1" translation="-100.766 0 162.921" nodeId="67"/>
+            <TransformGroup name="point1" translation="-53.5061 0 145.396" nodeId="68"/>
+            <TransformGroup name="point1" translation="-41.3903 0 111.994" nodeId="69"/>
+            <TransformGroup name="point1" translation="-47.2657 0 77.8483" nodeId="70"/>
+            <TransformGroup name="point1" translation="-67.2955 0 62.1829" nodeId="71"/>
+            <TransformGroup name="point1" translation="-76.4856 0 42.395" nodeId="72"/>
+            <TransformGroup name="point1" translation="-78.6482 0 8.64539" nodeId="73"/>
+          </TransformGroup>
+          <TransformGroup name="nameIndicator" translation="-10.519 0 96.6129" nodeId="74">
+            <Note name="Note" visibility="false" nodeId="75" text="field02&amp;#xA;1.61 ha" color="4278190080" fixedSize="true"/>
+          </TransformGroup>
+          <TransformGroup name="teleportIndicator" translation="-10.5188 0 96.6129" nodeId="76"/>
         </TransformGroup>
       </TransformGroup>
-      <TransformGroup name="mapEnds" nodeId="47">
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="988.982 51.9737 47.6416" rotation="-180 -60.6345 180" visibility="false" nodeId="48">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="52"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="55"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="58"/>
+      <TransformGroup name="mapEnds" nodeId="77">
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="988.982 51.9737 47.6416" rotation="-180 -60.6345 180" visibility="false" nodeId="78">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="82"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="85"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="88"/>
         </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="960.227 50 385.774" rotation="-7.16353e-12 -80.3876 1.36594e-05" visibility="false" nodeId="61">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="62"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="65"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="68"/>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="960.227 50 385.774" rotation="-7.16353e-12 -80.3876 1.36594e-05" visibility="false" nodeId="91">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="92"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="95"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="98"/>
         </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="988.107 44.05 713.889" rotation="180 -88.5183 -180" visibility="false" nodeId="71">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="72"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="75"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="78"/>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="988.107 44.05 713.889" rotation="180 -88.5183 -180" visibility="false" nodeId="101">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="102"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="105"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="108"/>
         </TransformGroup>
-        <TransformGroup name="mapEnd" lockedgroup="true" translation="-694.139 94.751 -992.025" rotation="1.0031e-06 -27.8398 -5.14061e-07" visibility="false" nodeId="81">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="82"/>
+        <TransformGroup name="mapEnd" lockedgroup="true" translation="-694.139 94.751 -992.025" rotation="1.0031e-06 -27.8398 -5.14061e-07" visibility="false" nodeId="111">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="112"/>
         </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="928.826 57.0593 894.864" rotation="-180 -85.5104 180" visibility="false" nodeId="85">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="86"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="89"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="92"/>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="928.826 57.0593 894.864" rotation="-180 -85.5104 180" visibility="false" nodeId="115">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="116"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="119"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="122"/>
         </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="775.675 58.1136 996.042" rotation="-180 -75.9541 180" visibility="false" nodeId="95">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="96"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="99"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="102"/>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="775.675 58.1136 996.042" rotation="-180 -75.9541 180" visibility="false" nodeId="125">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="126"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="129"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="132"/>
         </TransformGroup>
-        <TransformGroup name="mapEndDouble" lockedgroup="true" translation="-103.742 59.0313 977.15" rotation="180 36.8176 180" visibility="false" nodeId="105">
-          <TransformGroup name="mapEnd" translation="-1.25 0 0" nodeId="106">
-            <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="107"/>
+        <TransformGroup name="mapEndDouble" lockedgroup="true" translation="-103.742 59.0313 977.15" rotation="180 36.8176 180" visibility="false" nodeId="135">
+          <TransformGroup name="mapEnd" translation="-1.25 0 0" nodeId="136">
+            <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="137"/>
           </TransformGroup>
-          <TransformGroup name="mapEnd" translation="1.25 2.3332e-15 -2.37531e-07" nodeId="110">
-            <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="111"/>
-          </TransformGroup>
-        </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-970.899 58.2757 894.247" rotation="180 87.4738 180" visibility="false" nodeId="114">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="115"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="118"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="121"/>
-        </TransformGroup>
-        <TransformGroup name="mapEndDouble" lockedgroup="true" translation="-964.985 41.0586 419.625" rotation="-8.5006e-06 80.2501 -8.37512e-06" visibility="false" nodeId="124">
-          <TransformGroup name="mapEnd" translation="-1.25 0 0" nodeId="125">
-            <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="126"/>
-          </TransformGroup>
-          <TransformGroup name="mapEnd" translation="1.25 2.3332e-15 -2.37531e-07" nodeId="129">
-            <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="130"/>
+          <TransformGroup name="mapEnd" translation="1.25 2.3332e-15 -2.37531e-07" nodeId="140">
+            <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="141"/>
           </TransformGroup>
         </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-981.428 43.1401 38.2185" rotation="-1.20284e-11 78.544 -2.73134e-05" visibility="false" nodeId="133">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="134"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="137"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="140"/>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-970.899 58.2757 894.247" rotation="180 87.4738 180" visibility="false" nodeId="144">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="145"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="148"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="151"/>
         </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-985.765 63.8949 -132.407" rotation="3.09629e-05 90 0" visibility="false" nodeId="143">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="144"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="147"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="150"/>
-        </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-997.694 62.6832 -326.656" rotation="-1.15261e-11 76.3664 -3.0963e-05" visibility="false" nodeId="153">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="154"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="157"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="160"/>
-        </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-989.139 108.537 -746.932" rotation="-5.47028e-12 60.2209 -3.09629e-05" visibility="false" nodeId="163">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="164"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="167"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="170"/>
-        </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-749.257 98.2235 -989.641" rotation="-2.71686e-12 0.0176334 -3.0963e-05" visibility="false" nodeId="173">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="174"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="177"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="180"/>
-        </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-242.075 80.0683 -984.392" rotation="-5.28592e-12 59.0707 -3.0963e-05" visibility="false" nodeId="183">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="184"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="187"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="190"/>
-        </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="113.212 82.5568 -989.893" rotation="-2.9446e-12 22.6825 -3.0963e-05" visibility="false" nodeId="193">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="194"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="197"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="200"/>
-        </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="1000.74 99.7228 -919.372" rotation="-2.75004e-12 -8.91093 -3.0963e-05" visibility="false" nodeId="203">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="204"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 -0.0422745 7.68341e-09" referenceId="645" nodeId="207"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="210"/>
-        </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="1000.65 81.6869 -489.631" rotation="-4.52962e-12 -53.1448 -3.0963e-05" visibility="false" nodeId="213">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="214"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="217"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="220"/>
-        </TransformGroup>
-        <TransformGroup name="mapEndDouble" lockedgroup="true" translation="1001.36 40.9572 517.728" rotation="-180 -72.2748 180" visibility="false" nodeId="223">
-          <TransformGroup name="mapEnd" translation="-1.25 0 0" nodeId="224">
-            <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="225"/>
+        <TransformGroup name="mapEndDouble" lockedgroup="true" translation="-964.985 41.0586 419.625" rotation="-8.5006e-06 80.2501 -8.37512e-06" visibility="false" nodeId="154">
+          <TransformGroup name="mapEnd" translation="-1.25 0 0" nodeId="155">
+            <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="156"/>
           </TransformGroup>
-          <TransformGroup name="mapEnd" translation="1.25 2.3332e-15 -2.37531e-07" nodeId="228">
-            <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="229"/>
+          <TransformGroup name="mapEnd" translation="1.25 2.3332e-15 -2.37531e-07" nodeId="159">
+            <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="160"/>
           </TransformGroup>
         </TransformGroup>
-        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="212.177 59.0651 978.976" rotation="180 -16.2722 180" visibility="false" nodeId="232">
-          <ReferenceNode name="mapBoundsX" referenceId="645" nodeId="233"/>
-          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="645" nodeId="236"/>
-          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="645" nodeId="239"/>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-981.428 43.1401 38.2185" rotation="-1.20284e-11 78.544 -2.73134e-05" visibility="false" nodeId="163">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="164"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="167"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="170"/>
+        </TransformGroup>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-985.765 63.8949 -132.407" rotation="3.09629e-05 90 0" visibility="false" nodeId="173">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="174"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="177"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="180"/>
+        </TransformGroup>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-997.694 62.6832 -326.656" rotation="-1.15261e-11 76.3664 -3.0963e-05" visibility="false" nodeId="183">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="184"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="187"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="190"/>
+        </TransformGroup>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-989.139 108.537 -746.932" rotation="-5.47028e-12 60.2209 -3.09629e-05" visibility="false" nodeId="193">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="194"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="197"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="200"/>
+        </TransformGroup>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-749.257 98.2235 -989.641" rotation="-2.71686e-12 0.0176334 -3.0963e-05" visibility="false" nodeId="203">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="204"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="207"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="210"/>
+        </TransformGroup>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="-242.075 80.0683 -984.392" rotation="-5.28592e-12 59.0707 -3.0963e-05" visibility="false" nodeId="213">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="214"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="217"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="220"/>
+        </TransformGroup>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="113.212 82.5568 -989.893" rotation="-2.9446e-12 22.6825 -3.0963e-05" visibility="false" nodeId="223">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="224"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="227"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="230"/>
+        </TransformGroup>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="1000.74 99.7228 -919.372" rotation="-2.75004e-12 -8.91093 -3.0963e-05" visibility="false" nodeId="233">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="234"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 -0.0422745 7.68341e-09" referenceId="646" nodeId="237"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="240"/>
+        </TransformGroup>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="1000.65 81.6869 -489.631" rotation="-4.52962e-12 -53.1448 -3.0963e-05" visibility="false" nodeId="243">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="244"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="247"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="250"/>
+        </TransformGroup>
+        <TransformGroup name="mapEndDouble" lockedgroup="true" translation="1001.36 40.9572 517.728" rotation="-180 -72.2748 180" visibility="false" nodeId="253">
+          <TransformGroup name="mapEnd" translation="-1.25 0 0" nodeId="254">
+            <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="255"/>
+          </TransformGroup>
+          <TransformGroup name="mapEnd" translation="1.25 2.3332e-15 -2.37531e-07" nodeId="258">
+            <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="259"/>
+          </TransformGroup>
+        </TransformGroup>
+        <TransformGroup name="mapEndTriple" lockedgroup="true" translation="212.177 59.0651 978.976" rotation="180 -16.2722 180" visibility="false" nodeId="262">
+          <ReferenceNode name="mapBoundsX" referenceId="646" nodeId="263"/>
+          <ReferenceNode name="mapBoundsX" translation="-2.5 0 7.68341e-09" referenceId="646" nodeId="266"/>
+          <ReferenceNode name="mapBoundsX" translation="2.5 0 -1.18744e-08" referenceId="646" nodeId="269"/>
         </TransformGroup>
       </TransformGroup>
-      <TransformGroup name="npcSpots" nodeId="242">
-        <TransformGroup name="grandpa" translation="-15.1869 60 17.635" rotation="2.73513e-05 30 1.32524e-05" nodeId="243">
-          <TransformGroup name="farmhouse" rotation="0 0 -1.10503e-05" nodeId="244" minuteOfDayStart="360" minuteOfDayEnd="1320" weatherPreventMask="0xe"/>
+      <TransformGroup name="npcSpots" nodeId="272">
+        <TransformGroup name="grandpa" translation="-15.1869 60 17.635" rotation="2.73513e-05 30 1.32524e-05" nodeId="273">
+          <TransformGroup name="farmhouse" rotation="0 0 -1.10503e-05" nodeId="274" minuteOfDayStart="360" minuteOfDayEnd="1320" weatherPreventMask="0xe"/>
         </TransformGroup>
-        <TransformGroup name="helper" translation="-12.5452 60 -15.8489" rotation="1.03844e-05 26.4399 2.22382e-05" nodeId="245">
-          <TransformGroup name="farmhouse" translation="0 0 4.52995e-06" rotation="-2.26263e-05 -0 -2.1935e-05" nodeId="246" minuteOfDayStart="360" minuteOfDayEnd="1320" weatherPreventMask="0xe"/>
+        <TransformGroup name="helper" translation="-12.5452 60 -15.8489" rotation="1.03844e-05 26.4399 2.22382e-05" nodeId="275">
+          <TransformGroup name="farmhouse" translation="0 0 4.52995e-06" rotation="-2.26263e-05 -0 -2.1935e-05" nodeId="276" minuteOfDayStart="360" minuteOfDayEnd="1320" weatherPreventMask="0xe"/>
         </TransformGroup>
-        <TransformGroup name="forester" translation="5.13933 60 13.2119" rotation="5.85299e-06 15 7.33288e-06" nodeId="247">
-          <TransformGroup name="sawmill" translation="0 0 7.62939e-06" rotation="-8.29472e-06 -0 -1.46987e-05" nodeId="248" minuteOfDayStart="360" minuteOfDayEnd="1320" weatherPreventMask="0xe"/>
+        <TransformGroup name="forester" translation="5.13933 60 13.2119" rotation="5.85299e-06 15 7.33288e-06" nodeId="277">
+          <TransformGroup name="sawmill" translation="0 0 7.62939e-06" rotation="-8.29472e-06 -0 -1.46987e-05" nodeId="278" minuteOfDayStart="360" minuteOfDayEnd="1320" weatherPreventMask="0xe"/>
         </TransformGroup>
-        <TransformGroup name="animalDealer" translation="4.61657 60 -16.1922" rotation="-180 20 -180" nodeId="249">
-          <TransformGroup name="animalDealer" rotation="0 1.70755e-06 7.63333e-14" nodeId="250" minuteOfDayStart="360" minuteOfDayEnd="1320" weatherPreventMask="0xe"/>
+        <TransformGroup name="animalDealer" translation="4.61657 60 -16.1922" rotation="-180 20 -180" nodeId="279">
+          <TransformGroup name="animalDealer" rotation="0 1.70755e-06 7.63333e-14" nodeId="280" minuteOfDayStart="360" minuteOfDayEnd="1320" weatherPreventMask="0xe"/>
         </TransformGroup>
-        <TransformGroup name="farmer" translation="14.0439 60 -3.11271" rotation="180 -5.00896e-06 180" nodeId="251">
-          <TransformGroup name="neighbourFarm" translation="0 0 -2.55704e-05" rotation="0 -0 8.39666e-13" nodeId="252" minuteOfDayStart="360" minuteOfDayEnd="1320" weatherPreventMask="0xe"/>
+        <TransformGroup name="farmer" translation="14.0439 60 -3.11271" rotation="180 -5.00896e-06 180" nodeId="281">
+          <TransformGroup name="neighbourFarm" translation="0 0 -2.55704e-05" rotation="0 -0 8.39666e-13" nodeId="282" minuteOfDayStart="360" minuteOfDayEnd="1320" weatherPreventMask="0xe"/>
         </TransformGroup>
       </TransformGroup>
-      <TransformGroup name="splines" nodeId="253">
-        <TransformGroup name="trafficSplines" nodeId="254">
-          <TransformGroup name="parkedCars" nodeId="255">
-            <TransformGroup name="parkedCar" translation="-105.302 49.1127 -115.651" rotation="-1.67025e-09 -3.27145 -1.05428e-07" nodeId="256"/>
+      <TransformGroup name="splines" nodeId="283">
+        <TransformGroup name="trafficSplines" nodeId="284">
+          <TransformGroup name="parkedCars" nodeId="285">
+            <TransformGroup name="parkedCar" translation="-105.302 49.1127 -115.651" rotation="-1.67025e-09 -3.27145 -1.05428e-07" nodeId="286"/>
           </TransformGroup>
         </TransformGroup>
-        <TransformGroup name="ai" visibility="false" nodeId="257"/>
-        <TransformGroup name="pedestrianSystem" visibility="false" nodeId="258">
-          <TransformGroup name="staticGroups" nodeId="259">
-            <TransformGroup name="standardStatic" nodeId="260">
-              <TransformGroup name="npcPos" translation="-78.4068 49.2069 -102.92" rotation="180 85.2387 180" nodeId="261" weatherRequiredMask="0x31"/>
+        <TransformGroup name="ai" visibility="false" nodeId="287"/>
+        <TransformGroup name="pedestrianSystem" visibility="false" nodeId="288">
+          <TransformGroup name="staticGroups" nodeId="289">
+            <TransformGroup name="standardStatic" nodeId="290">
+              <TransformGroup name="npcPos" translation="-78.4068 49.2069 -102.92" rotation="180 85.2387 180" nodeId="291" weatherRequiredMask="0x31"/>
             </TransformGroup>
-            <TransformGroup name="shopClerkStatic" nodeId="262">
-              <TransformGroup name="shopClerk" translation="-77.7255 49.2069 -105.301" rotation="180 -88.5555 180" nodeId="263" weatherRequiredMask="0x31"/>
+            <TransformGroup name="shopClerkStatic" nodeId="292">
+              <TransformGroup name="shopClerk" translation="-77.7255 49.2069 -105.301" rotation="180 -88.5555 180" nodeId="293" weatherRequiredMask="0x31"/>
             </TransformGroup>
           </TransformGroup>
         </TransformGroup>
       </TransformGroup>
-      <TransformGroup name="triggerMarkers" nodeId="264"/>
-      <TransformGroup name="vehicleShop" nodeId="265">
-        <Shape name="vehicleShopTrigger" translation="4.17929 60 -76.362" rotation="-7.60258e-07 90 0" shapeId="5" static="true" trigger="true" collisionFilterGroup="0x20000000" collisionFilterMask="0x100000" nodeId="266" castsShadows="true" receiveShadows="true" nonRenderable="true" materialIds="6">
-          <ReferenceNode name="markerIconShopping" referenceId="647" nodeId="270"/>
-          <TransformGroup name="vehicleShopPlayerSpawn" translation="-1.65498e-06 -0.000488282 2.5" rotation="1.64789e-14 90 -2.3031e-08" nodeId="273"/>
+      <TransformGroup name="triggerMarkers" nodeId="294"/>
+      <TransformGroup name="vehicleShop" nodeId="295">
+        <Shape name="vehicleShopTrigger" translation="4.17929 60 -76.362" rotation="-7.60258e-07 90 0" shapeId="5" static="true" trigger="true" collisionFilterGroup="0x20000000" collisionFilterMask="0x100000" nodeId="296" castsShadows="true" receiveShadows="true" nonRenderable="true" materialIds="7">
+          <ReferenceNode name="markerIconShopping" referenceId="648" nodeId="300"/>
+          <TransformGroup name="vehicleShopPlayerSpawn" translation="-1.65498e-06 -0.000488282 2.5" rotation="1.64789e-14 90 -2.3031e-08" nodeId="303"/>
         </Shape>
-        <TransformGroup name="storeSpawnPlace1Start" translation="13.8832 60 -86.205" rotation="-1.86693e-05 -0 0" nodeId="274">
-          <TransformGroup name="storeSpawnPlace1End" translation="72 0 0" nodeId="275"/>
+        <TransformGroup name="storeSpawnPlace1Start" translation="13.8832 60 -86.205" rotation="-1.86693e-05 -0 0" nodeId="304">
+          <TransformGroup name="storeSpawnPlace1End" translation="72 0 0" nodeId="305"/>
         </TransformGroup>
-        <TransformGroup name="storeSpawnPlace2Start" translation="16.6889 60 -64.7793" rotation="-1.50269e-05 -0 0" nodeId="276">
-          <TransformGroup name="storeSpawnPlace2End" translation="72 0 0" nodeId="277"/>
+        <TransformGroup name="storeSpawnPlace2Start" translation="16.6889 60 -64.7793" rotation="-1.50269e-05 -0 0" nodeId="306">
+          <TransformGroup name="storeSpawnPlace2End" translation="72 0 0" nodeId="307"/>
         </TransformGroup>
       </TransformGroup>
     </TransformGroup>
-    <TransformGroup name="map" nodeId="278"/>
+    <TransformGroup name="map" nodeId="308"/>
   </Scene>
 
   <UserAttributes>
-    <UserAttribute nodeId="10">
+    <UserAttribute nodeId="15">
       <Attribute name="onCreate" type="scriptCallback" value="Environment.onCreateSunLight"/>
     </UserAttribute>
-    <UserAttribute nodeId="32">
+    <UserAttribute nodeId="38">
       <Attribute name="onCreate" type="scriptCallback" value="Mission00.onCreateStartPoint"/>
     </UserAttribute>
-    <UserAttribute nodeId="34">
+    <UserAttribute nodeId="45">
       <Attribute name="onCreate" type="scriptCallback" value="FieldUtil.onCreate"/>
     </UserAttribute>
-    <UserAttribute nodeId="35">
+    <UserAttribute nodeId="46">
       <Attribute name="angle" type="float" value="0"/>
       <Attribute name="missionAllowed" type="boolean" value="true"/>
       <Attribute name="missionOnlyGrass" type="boolean" value="false"/>
@@ -1342,61 +1366,69 @@
       <Attribute name="polygonIndex" type="string" value="0"/>
       <Attribute name="teleportIndicatorIndex" type="string" value="1"/>
     </UserAttribute>
-    <UserAttribute nodeId="244">
+    <UserAttribute nodeId="58">
+      <Attribute name="angle" type="integer" value="0"/>
+      <Attribute name="missionAllowed" type="boolean" value="true"/>
+      <Attribute name="missionOnlyGrass" type="boolean" value="false"/>
+      <Attribute name="nameIndicatorIndex" type="string" value="1"/>
+      <Attribute name="polygonIndex" type="string" value="0"/>
+      <Attribute name="teleportIndicatorIndex" type="string" value="2"/>
+    </UserAttribute>
+    <UserAttribute nodeId="274">
       <Attribute name="isStartSpot" type="boolean" value="true"/>
       <Attribute name="npcName" type="string" value="GRANDPA"/>
       <Attribute name="onCreate" type="scriptCallback" value="NPCSpot.onCreate"/>
       <Attribute name="uniqueId" type="string" value="GRANDPA_FARMHOUSE"/>
     </UserAttribute>
-    <UserAttribute nodeId="246">
+    <UserAttribute nodeId="276">
       <Attribute name="isStartSpot" type="boolean" value="true"/>
       <Attribute name="npcName" type="string" value="HELPER"/>
       <Attribute name="onCreate" type="scriptCallback" value="NPCSpot.onCreate"/>
       <Attribute name="uniqueId" type="string" value="HELPER_HOUSE"/>
     </UserAttribute>
-    <UserAttribute nodeId="248">
+    <UserAttribute nodeId="278">
       <Attribute name="isStartSpot" type="boolean" value="true"/>
       <Attribute name="npcName" type="string" value="FORESTER"/>
       <Attribute name="onCreate" type="scriptCallback" value="NPCSpot.onCreate"/>
       <Attribute name="uniqueId" type="string" value="FORESTER_SHED"/>
     </UserAttribute>
-    <UserAttribute nodeId="250">
+    <UserAttribute nodeId="280">
       <Attribute name="isStartSpot" type="boolean" value="true"/>
       <Attribute name="npcName" type="string" value="ANIMAL_DEALER"/>
       <Attribute name="onCreate" type="scriptCallback" value="NPCSpot.onCreate"/>
       <Attribute name="uniqueId" type="string" value="ANIMAL_DEALER_SHOP"/>
     </UserAttribute>
-    <UserAttribute nodeId="252">
+    <UserAttribute nodeId="282">
       <Attribute name="isStartSpot" type="boolean" value="true"/>
       <Attribute name="npcName" type="string" value="FARMER"/>
       <Attribute name="onCreate" type="scriptCallback" value="NPCSpot.onCreate"/>
       <Attribute name="uniqueId" type="string" value="FARMER_HOUSE"/>
     </UserAttribute>
-    <UserAttribute nodeId="254">
+    <UserAttribute nodeId="284">
       <Attribute name="onCreate" type="scriptCallback" value="TrafficSystem.onCreate"/>
       <Attribute name="xmlFile" type="string" value="$data/maps/mapUS/config/trafficSystem.xml"/>
     </UserAttribute>
-    <UserAttribute nodeId="257">
+    <UserAttribute nodeId="287">
       <Attribute name="onCreate" type="scriptCallback" value="AISystem.onCreateAIRoadSpline"/>
     </UserAttribute>
-    <UserAttribute nodeId="258">
+    <UserAttribute nodeId="288">
       <Attribute name="onCreate" type="scriptCallback" value="PedestrianSystem.onCreate"/>
       <Attribute name="xmlFile" type="string" value="$data/maps/mapUS/config/pedestrianSystem.xml"/>
     </UserAttribute>
-    <UserAttribute nodeId="260">
+    <UserAttribute nodeId="290">
       <Attribute name="groupName" type="string" value="standardStatic"/>
     </UserAttribute>
-    <UserAttribute nodeId="262">
+    <UserAttribute nodeId="292">
       <Attribute name="groupName" type="string" value="standardStatic"/>
     </UserAttribute>
-    <UserAttribute nodeId="266">
+    <UserAttribute nodeId="296">
       <Attribute name="onCreate" type="scriptCallback" value="ShopTrigger.onCreate"/>
     </UserAttribute>
-    <UserAttribute nodeId="274">
+    <UserAttribute nodeId="304">
       <Attribute name="onCreate" type="scriptCallback" value="BaseMission.onCreateStoreSpawnPlace"/>
       <Attribute name="yOffset" type="float" value="0.1"/>
     </UserAttribute>
-    <UserAttribute nodeId="276">
+    <UserAttribute nodeId="306">
       <Attribute name="onCreate" type="scriptCallback" value="BaseMission.onCreateStoreSpawnPlace"/>
       <Attribute name="yOffset" type="float" value="0.1"/>
     </UserAttribute>

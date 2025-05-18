@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="92">
+<modDesc descVersion="98">
     <author>FSG Modding</author>
     <version>1.0.0.0</version>
     <title>
@@ -13,7 +13,8 @@
     <iconFilename>map_icon.png</iconFilename>
     <multiplayer supported="true"/>
     <maps>
-        <map id="SampleModMap" className="Mission00" filename="$dataS/scripts/mission00.lua" configFilename="map/xml/map.xml" defaultVehiclesXMLFilename="map/xml/vehicles.xml" defaultPlaceablesXMLFilename="map/xml/placeables.xml" defaultItemsXMLFilename="map/xml/items.xml" defaultHandToolsXMLFilename="map/xml/handtools.xml">
+        <!-- Make sure to use a custom map id.  Best to use name of your map without spaces.  Change SampleModMap to YourMapName. -->
+        <map id="SampleModMap" className="Mission00" filename="$dataS/scripts/mission00.lua" configFilename="map/config/map.xml" defaultVehiclesXMLFilename="map/config/vehicles.xml" defaultPlaceablesXMLFilename="map/config/placeables.xml" defaultItemsXMLFilename="map/config/items.xml" defaultHandToolsXMLFilename="map/config/handtools.xml">
             <title>
                 <en>Mod Map US 4x - FS25 Blank Map</en>
                 <de>Mod Map US 4x - FS25 Blank Map</de>
@@ -26,6 +27,6 @@
         </map>
     </maps>
     <storeItems>
-      <!-- <storeItem xmlFilename="map/xml/sawmill.xml" /> -->
+      <!-- <storeItem xmlFilename="map/config/sawmill.xml" /> -->
     </storeItems>
 </modDesc>

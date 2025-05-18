@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<fieldGround>
+    <densityMaps>
+        <sprayLevel filename="map/data/infoLayer_sprayLevel.png" firstChannel="0" numChannels="2" maxValue="2"/>
+        <limeLevel filename="map/data/infoLayer_limeLevel.png" firstChannel="0" numChannels="2" />
+        <plowLevel filename="map/data/infoLayer_plowLevel.png" firstChannel="0" numChannels="1" />
+        <stubbleShredLevel filename="map/data/infoLayer_stubbleShredLevel.png" firstChannel="0" numChannels="1" />
+        <rollerLevel filename="map/data/infoLayer_rollerLevel.png" firstChannel="0" numChannels="1" />
+        <fieldType filename="map/data/infoLayer_fieldType.png" firstChannel="0" numChannels="1">
+            <default value="0" />
+            <rice value="1" />
+        </fieldType>
+    </densityMaps>
+</fieldGround>
