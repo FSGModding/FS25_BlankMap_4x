@@ -10,7 +10,7 @@
         <en><![CDATA[FS25 Blank Map]]></en>
         <de><![CDATA[Dies ist die Beispiel Mod Map US.]]></de>
     </description>
-    <iconFilename>map_icon.png</iconFilename>
+    <iconFilename>icon_map.png</iconFilename>
     <multiplayer supported="true"/>
     <maps>
         <!-- Make sure to use a custom map id.  Best to use name of your map without spaces.  Change SampleModMap to YourMapName. -->
@@ -23,7 +23,7 @@
                 <en>This is the sample mod map US.</en>
                 <de>Dies ist die Beispiel Mod Map US.</de>
             </description>
-            <iconFilename>map_preview.png</iconFilename>
+            <iconFilename>preview.png</iconFilename>
         </map>
     </maps>
     <storeItems>
